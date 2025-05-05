@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-
-- 🔭 I’m currently studying Computer Science at the University of Hong Kong (HKU)
+I am Danny Yao and I am currently studying Computer Science at the University of Hong Kong (HKU).
 
